@@ -1,15 +1,10 @@
 package dk.mudlogic;
 
 import dk.mudlogic.crypto.AES_Enc;
-import dk.mudlogic.crypto.AES_Encrypt;
 import dk.mudlogic.crypto.Keccak;
 import dk.mudlogic.crypto.Utils;
 import dk.mudlogic.tools.log.LogFactory;
 import dk.mudlogic.tools.log.LogTracer;
-import org.bouncycastle.crypto.paddings.PKCS7Padding;
-
-import javax.crypto.KeyGenerator;
-import javax.crypto.SecretKey;
 
 
 public class Main {
