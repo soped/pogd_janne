@@ -11,6 +11,7 @@ import dk.mudlogic.tools.log.LogTracer;
  *
  * Her en en ændring
  * En ny ændring
+ * version 888888!
  */
 
 public class Main {
