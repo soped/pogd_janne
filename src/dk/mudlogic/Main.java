@@ -7,11 +7,7 @@ import dk.mudlogic.tools.log.LogFactory;
 import dk.mudlogic.tools.log.LogTracer;
 
 /**
- * Nu er vi to om det her skidt.
- *
- * Her en en ændring
- * En ny ændring
- * version 888888!
+ * P&D super important project of d00m.
  */
 
 public class Main {
