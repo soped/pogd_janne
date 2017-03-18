@@ -8,6 +8,8 @@ import dk.mudlogic.tools.log.LogTracer;
 
 /**
  * Nu er vi to om det her skidt.
+ *
+ *
  */
 
 public class Main {
