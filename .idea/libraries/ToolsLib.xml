@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="ToolsLib">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../ToolsLib/out/artifacts/ToolsLib_jar/ToolsLib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Udviklings Gruppe/Java-libs/ToolsLib.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
