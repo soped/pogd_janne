@@ -9,7 +9,7 @@ import dk.mudlogic.tools.log.LogTracer;
 /**
  * Nu er vi to om det her skidt.
  *
- *
+ * Her en en ændring
  */
 
 public class Main {
