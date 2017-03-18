@@ -6,6 +6,9 @@ import dk.mudlogic.crypto.Utils;
 import dk.mudlogic.tools.log.LogFactory;
 import dk.mudlogic.tools.log.LogTracer;
 
+/**
+ * Nu er vi to om det her skidt.
+ */
 
 public class Main {
 
